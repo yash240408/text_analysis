@@ -5,7 +5,7 @@ It is a simple python project or website in which we can Analyze text.
 
 What Can We do from Textutils ?
 1)Remove Punctuations
-2)UPPERCASE
-3)New Line Remove
-4)Extra Spaces Remover
-5)Numbers Remover
+2)UPPERCASE and lowercase
+3)lowercase
+4)New Line Remove
+5)Extra Spaces Remover
